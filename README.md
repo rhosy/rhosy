@@ -1,5 +1,5 @@
 # Hi, I'm Khoirur Rosy 👋  
-Welcome to my GitHub profile! I'm a [role/profession] with a passion for [interest or skill].
+Welcome to my GitHub profile! I'm a Flutter Developer & UI/UX Designer.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
